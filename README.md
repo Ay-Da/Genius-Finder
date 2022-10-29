@@ -7,13 +7,12 @@ This tool allows you to search for a username across over 75 social Networks Cod
 
 <h1>Screenshots </h1>
 
-<img src="https://i.ibb.co/zsJM0Yp/Budget.jpg" >
+<img src="https://i.ibb.co/bzs1cqT/script.png" >
 
 <h1> Tested On :</h1>
 
-<li> Google Chrome </li> <br>
-<li> Firefox </li> <br>
-<li> Internet Explorer </li> <br>
+<li> Kali Linux </li> <br>
+<li> Ubuntu </li> <br>
 
 <h1> Contact : </h1>
 
