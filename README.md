@@ -5,6 +5,16 @@ This tool allows you to search for a username across over 75 social Networks Cod
 
 <h1> Installation : </h1>
 
+<pre class="notranslate">
+<code>
+sudo apt-get install git
+git clone https://github.com/Ay-Da/Genius-Finder.git
+cd Genius-Finder
+chmod +x Genius-Finder.sh
+sudo ./Genius-Finder.sh
+</code>
+</pre>
+
 <h1>Screenshots </h1>
 
 <img src="https://i.ibb.co/bzs1cqT/script.png" >
